@@ -1,0 +1,39 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "CSV Template Group",
+      "active_inactive": "active",
+      "description": "Aliquam eu euismod tortor, porttitor ultrices justo.",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": " Template Group 2",
+      "active_inactive": "active",
+      "description": "In nec orci sollicitudin nisl congue dictum.",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Template Group 3",
+      "active_inactive": "active",
+      "description": "Quisque eros justo, ultricies et lobortis eget, lobortis nec nisi.",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "Template Group 4",
+      "active_inactive": "inactive",
+      "description": "Donec facilisis enim sed nibh fermentum, vel hendrerit augue porttitor.",
+      "status": "Inactive"
+    },
+    {
+      "id": 5,
+      "name": "Template Group 5",
+      "active_inactive": "n/a",
+      "description": "Etiam vel ultrices enim. Integer at turpis congue, dapibus libero non, convallis neque.",
+      "status": "Terminated"
+    }
+  ]
+}

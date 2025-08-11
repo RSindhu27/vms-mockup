@@ -1,0 +1,143 @@
+{
+  "matrices": [
+    {
+      "id": 1,
+      "matrix_id": "TM-0001",
+      "matrix_name": "Quality Control System",
+      "project_id": "1010011",
+      "project": "Alpha",
+      "spec_doc": "URS-ML1-001",
+      "completion": 78,
+      "requirements": 156,
+      "status": "Active",
+      "created_by": "Alex Johnson",
+      "created_on": "2025-01-15",
+      "workflow_owner": "Alex Johnson",
+      "workflow_status": "In-progress",
+      "last_modified_on": "2025-01-15",
+      "modified_by": "2025-01-15"
+    }
+  ],
+  "tabs": [
+    { "key": "all", "label": "All", "count": 21 },
+    { "key": "wip", "label": "WIP", "count": 4 },
+    { "key": "completed", "label": "Completed", "count": 16 },
+    { "key": "rejected", "label": "Rejected", "count": 15 },
+    { "key": "superseded", "label": "Superseded", "count": 10 },
+    { "key": "terminated", "label": "Terminated", "count": 1 }
+  ],
+  "matrixDetails": {
+    "TM-0001": {
+      "title": "Trace Matrix Details",
+      "project": "Project: Project Alpha",
+      "groups": [
+        {
+          "spec_doc_id": "URS Document: URS-075N6-002.01",
+          "rows": [
+            {
+              "id": 101,
+              "warning": false,
+              "urs_id": "URS-0001",
+              "urs_desc": "System shall allow creating and saving batches.",
+              "frs": { "id": "FRS-0901", "note": "Table 4b · 02 Sep 24" },
+              "fqa": { "id": "FQA-003", "note": "FQA-009 · 12 Sep 24" },
+              "iq": { "id": "IQ-003", "note": "IQ- 080 · 10 Sep 24" },
+              "status": "Pending",
+              "discrepancy": false,
+              "comments": "User high-risk validation scenario."
+            },
+            {
+              "id": 102,
+              "warning": true,
+              "urs_id": "URS-0002",
+              "urs_desc": "System shall audit all changes.",
+              "frs": { "id": "FRS-0903", "note": "Table 2a · 05 Sep 24" },
+              "fqa": { "id": "FQA-011", "note": "Linked · 11 Sep 24" },
+              "iq": { "id": "IQ-009", "note": "Tab 1c · 13 Sep 24" },
+              "status": "Fail",
+              "discrepancy": true,
+              "comments": "Test validation of audit trails."
+            },
+            {
+              "id": 103,
+              "warning": false,
+              "urs_id": "URS-0003",
+              "urs_desc": "Manual start for batch is supported.",
+              "frs": { "id": "FRS-0911", "note": "Flow A · 06 Sep 24" },
+              "fqa": { "id": "FQA-013", "note": "Reviewed · 10 Sep 24" },
+              "iq": { "id": "IQ-012", "note": "OK · 15 Sep 24" },
+              "status": "Pass",
+              "discrepancy": false,
+              "comments": "-"
+            },
+            {
+              "id": 104,
+              "warning": false,
+              "urs_id": "URS-0004",
+              "urs_desc": "System shall backup validations daily.",
+              "frs": { "id": "FRS-0915", "note": "Sched · 03 Sep 24" },
+              "fqa": { "id": "FQA-017", "note": "Queued · 16 Sep 24" },
+              "iq": { "id": "IQ-020", "note": "TBD" },
+              "status": "In Progress",
+              "discrepancy": true,
+              "comments": "Data backup set validating..."
+            },
+            {
+              "id": 105,
+              "warning": false,
+              "urs_id": "URS-0005",
+              "urs_desc": "System shall provide multi-role access.",
+              "frs": { "id": "FRS-0919", "note": "RBAC · 07 Sep 24" },
+              "fqa": { "id": "FQA-020", "note": "OK" },
+              "iq": { "id": "IQ-028", "note": "OK · 17 Sep 24" },
+              "status": "Pass",
+              "discrepancy": false,
+              "comments": "System audit validated."
+            }
+          ]
+        },
+        {
+          "spec_doc_id": "URS Document: URS-075N6-002.01B",
+          "rows": [
+            {
+              "id": 201,
+              "warning": false,
+              "urs_id": "URS-0006",
+              "urs_desc": "System shall import CSV templates.",
+              "frs": { "id": "FRS-0920", "note": "Table 4a · 02 Sep 24" },
+              "fqa": { "id": "FQA-025", "note": "OK" },
+              "iq": { "id": "IQ-030", "note": "OK" },
+              "status": "Pass",
+              "discrepancy": false,
+              "comments": "-"
+            },
+            {
+              "id": 202,
+              "warning": true,
+              "urs_id": "URS-0007",
+              "urs_desc": "System shall throttle API calls.",
+              "frs": { "id": "FRS-0921", "note": "Spec §6 · 08 Sep 24" },
+              "fqa": { "id": "FQA-026", "note": "WIP" },
+              "iq": { "id": "IQ-034", "note": "TBD" },
+              "status": "Pending",
+              "discrepancy": false,
+              "comments": "Review rate limit tests."
+            },
+            {
+              "id": 203,
+              "warning": false,
+              "urs_id": "URS-0008",
+              "urs_desc": "System shall redact PII in logs.",
+              "frs": { "id": "FRS-0922", "note": "§5.2 · 09 Sep 24" },
+              "fqa": { "id": "FQA-027", "note": "OK" },
+              "iq": { "id": "IQ-035", "note": "OK · 19 Sep 24" },
+              "status": "Pass",
+              "discrepancy": false,
+              "comments": "-"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

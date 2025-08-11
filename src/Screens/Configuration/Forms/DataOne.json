@@ -1,0 +1,34 @@
+{
+  "checklist": [
+    {
+      "id": 1,
+      "name": "Form 1",
+      "form_type": "Standard",
+      "prefix_id": "STD/STD001"
+    },
+    {
+      "id": 2,
+      "name": "Form 2",
+      "form_type": "Project",
+      "prefix_id": "PRT/PRT001"
+    },
+    {
+      "id": 3,
+      "name": "Form 3",
+      "form_type": "Historical Document",
+      "prefix_id": "HDF/HDF001"
+    },
+    {
+      "id": 4,
+      "name": "Form 4",
+      "form_type": "Description",
+      "prefix_id": "DET/DET001"
+    },
+    {
+      "id": 5,
+      "name": "Form 5",
+      "form_type": "Framework",
+      "prefix_id": "VFT/VFT001"
+    }
+  ]
+}

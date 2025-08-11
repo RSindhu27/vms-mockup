@@ -1,0 +1,64 @@
+{
+  "rules": [
+    {
+      "id": "CR00001",
+      "description": "Auto-create rule for QC Reports",
+      "document_type": "Quality Control Report",
+      "system_data_fields": ["Product Code", "Market", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "auto_create": true,
+      "active": true
+    },
+    {
+      "id": "CR00002",
+      "description": "Auto-create rule for SOPs",
+      "document_type": "Standard Operations",
+      "system_data_fields": ["Product Code", "Market", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "auto_create": true,
+      "active": true
+    },
+    {
+      "id": "CR00003",
+      "description": "Auto-create rule for QC Reports",
+      "document_type": "Batch Manufacturing",
+      "system_data_fields": ["Product Code", "Market", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "auto_create": false,
+      "active": true
+    },
+    {
+      "id": "CR00004",
+      "description": "Auto-create rule for SOPs",
+      "document_type": "Quality Control Report",
+      "system_data_fields": ["Product Code", "Market", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "auto_create": true,
+      "active": false
+    },
+    {
+      "id": "CR00005",
+      "description": "Auto-create rule for QC Reports",
+      "document_type": "Standard Operations",
+      "system_data_fields": ["Product Code", "Market", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "auto_create": false,
+      "active": true
+    },
+    {
+      "id": "CR00006",
+      "description": "Auto-create rule for SOPs",
+      "document_type": "Batch Manufacturing",
+      "system_data_fields": ["Product Code", "Market", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "auto_create": true,
+      "active": true
+    }
+  ]
+}

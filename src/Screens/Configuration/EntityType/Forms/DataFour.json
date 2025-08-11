@@ -1,0 +1,24 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "deliverables": "Deliverables 01"
+    },
+    {
+      "id": 2,
+      "deliverables": "Deliverables 02"
+    },
+    {
+      "id": 3,
+      "deliverables": "Deliverables 03"
+    },
+    {
+      "id": 4,
+      "deliverables": "Deliverables 04"
+    },
+    {
+      "id": 5,
+      "deliverables": "Deliverables 05"
+    }
+  ]
+}

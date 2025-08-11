@@ -1,0 +1,44 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "task_id": "TSK/001",
+      "task_type": "Authoring Document",
+      "content_function": "Executable",
+      "description": "Vivamus tellus quam, semper ac consequat sed, consectetur sit amet tortor.",
+      "status": "Assigned"
+    },
+    {
+      "id": 2,
+      "task_id": "TSK/002",
+      "task_type": "Execute Document",
+      "content_function": "Executable",
+      "description": "Nullam eu lacinia nulla, ut finibus urna. Curabitur massa erat.",
+      "status": "Reviewing"
+    },
+    {
+      "id": 3,
+      "task_id": "TSK/003",
+      "task_type": "Review Document",
+      "content_function": "Executable",
+      "description": "Maecenas sed accumsan nisi. Pellentesque quis blandit quam.",
+      "status": "Reviewing"
+    },
+    {
+      "id": 4,
+      "task_id": "TSK/004",
+      "task_type": "Review Document",
+      "content_function": "Executable",
+      "description": "Curabitur tincidunt, nunc sit amet molestie efficitur.",
+      "status": "Completed"
+    },
+    {
+      "id": 5,
+      "task_id": "TSK/005",
+      "task_type": "Execute Document",
+      "content_function": "Executable",
+      "description": "Praesent interdum nec tortor eu pharetra. Vivamus at arcu id augue laoreet mattis.",
+      "status": "Rejected"
+    }
+  ]
+}

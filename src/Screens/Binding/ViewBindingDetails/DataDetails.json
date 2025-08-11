@@ -1,0 +1,15 @@
+{
+      "picklist": [
+        {
+            "id": 1,
+          "name": "ARC/CAT/SUBCAT/CSVDOCXYZ00.01",
+          "bind_as": "Copy"
+        },
+        {
+            "id": 2,
+          "name": "ARC/CAT/SUBCAT/CSVDOCXYZ00.02",
+          "bind_as": "Copy"
+        }
+      ]
+    }
+  

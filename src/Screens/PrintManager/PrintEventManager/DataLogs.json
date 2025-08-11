@@ -1,0 +1,36 @@
+{
+  "logs": [
+    {
+      "id": "DOC0009359",
+      "type": "Print",
+      "printedBy": "John Smith",
+      "printedTo": "Alex Johnson",
+      "timestamp": "2024-04-10T15:05:00",
+      "details": "Printed all docs in package"
+    },
+    {
+      "id": "DOC0009359",
+      "type": "Reprinted",
+      "printedBy": "John Smith",
+      "printedTo": "Emma John",
+      "timestamp": "2024-04-10T15:05:00",
+      "details": "Reprinted cover page"
+    },
+    {
+      "id": "DOC0009359",
+      "type": "Print",
+      "printedBy": "Emma John",
+      "printedTo": "Alex Johnson",
+      "timestamp": "2024-04-10T15:05:00",
+      "details": "Printed document DOC000027"
+    },
+    {
+      "id": "DOC0009359",
+      "type": "Reprinted",
+      "printedBy": "John Smith",
+      "printedTo": "Emma Smith",
+      "timestamp": "2024-04-10T15:05:00",
+      "details": "Reprinted all documents"
+    }
+  ]
+}

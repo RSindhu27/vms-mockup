@@ -1,0 +1,76 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "inherit_from": "Strides",
+      "inherit_to": "Arcolab",
+      "object_type_name": "STRD/TMP/XYZ0001",
+      "object_type": "Template",
+      "status": "Completed",
+      "in_workflow": "assigned"
+    },
+    {
+      "id": 2,
+      "inherit_from": "Strides",
+      "inherit_to": "Arcolab",
+      "object_type_name": "CSV/OQD/DOC/XYZ0001",
+      "object_type": "Document",
+      "status": "In progress",
+      "in_workflow": "approval_pending"
+    },
+    {
+      "id": 3,
+      "inherit_from": "Strides",
+      "inherit_to": "Arcolab",
+      "object_type_name": "STRD/FORM/XYZ0001",
+      "object_type": "Form",
+      "status": "NA",
+      "in_workflow": "expired"
+    },
+    {
+      "id": 4,
+      "inherit_from": "Strides",
+      "inherit_to": "Arcolab",
+      "object_type_name": "REVIEWER",
+      "object_type": "Role",
+      "status": "NA",
+      "in_workflow": "nil"
+    },
+    {
+      "id": 5,
+      "inherit_from": "Strides",
+      "inherit_to": "Arcolab",
+      "object_type_name": "STRD/TMP/XYZ0001",
+      "object_type": "Template",
+      "status": "Rejected",
+      "in_workflow": "assigned"
+    },
+    {
+      "id": 6,
+      "inherit_from": "Strides",
+      "inherit_to": "Arcolab",
+      "object_type_name": "STRD/TMP/XYZ0001",
+      "object_type": "Decision Tree",
+      "status": "NA",
+      "in_workflow": "approval_pending"
+    },
+    {
+      "id": 7,
+      "inherit_from": "Strides",
+      "inherit_to": "Arcolab",
+      "object_type_name": "STRD/TMP/XYZ0001",
+      "object_type": "Template",
+      "status": "Completed",
+      "in_workflow": "expired"
+    },
+    {
+      "id": 8,
+      "inherit_from": "Strides",
+      "inherit_to": "Arcolab",
+      "object_type_name": "STRD/TMP/XYZ0001",
+      "object_type": "Template",
+      "status": "Completed",
+      "in_workflow": "nil"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "User Group 1",
+      "description": "Morbi laoreet porttitor dolor, nec bibendum turpis posuere ac.",
+      "users": [
+        "Clark Kent",
+        "Bruce Wayne",
+        "Diana Prince",
+        "Barry Allen",
+        "Hal Jordan",
+        "Arthur Curry",
+        "Oliver Queen",
+        "J'onn J'onzz"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "User Group 2",
+      "description": "In nec sem vel lectus hendrerit porta et vel sapien.",
+      "users": []
+    },
+    {
+      "id": 3,
+      "name": "User Group 3",
+      "description": "Morbi pharetra tempor placerat.",
+      "users": ["Victor Stone", "Billy Batson", "Carter Hall"]
+    },
+    {
+      "id": 4,
+      "name": "User Group 4",
+      "description": "Fusce luctus elit vel leo congue, ut molestie dui faucibus.",
+      "users": ["Shiera Sanders Hall", "Dinah Lance", "Kara Zor-El"]
+    },
+    {
+      "id": 5,
+      "name": "User Group 5",
+      "description": "Vestibulum tincidunt cursus maximus.",
+      "users": ["Barbara Gordon", "Dick Grayson", "Jason Todd"]
+    }
+  ]
+}

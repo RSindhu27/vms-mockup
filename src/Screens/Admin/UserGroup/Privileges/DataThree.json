@@ -1,0 +1,28 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "doc_type": "Doc Type 1"
+    },
+    {
+      "id": 2,
+      "doc_type": "Doc Type 2"
+    },
+    {
+      "id": 3,
+      "doc_type": "Doc Type 3"
+    },
+    {
+      "id": 4,
+      "doc_type": "Doc Type 4"
+    },
+    {
+      "id": 5,
+      "doc_type": "Doc Type 5"
+    },
+    {
+      "id": 6,
+      "doc_type": "Doc Type 6"
+    }
+  ]
+}

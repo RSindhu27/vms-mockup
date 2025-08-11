@@ -1,0 +1,64 @@
+{
+  "associations": [
+    {
+      "id": "PAS00001",
+      "description": "Associate SOPs to main",
+      "creation_rule": "CR24673",
+      "matching_data_fields": ["Market", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "existing_packages": true,
+      "active": true
+    },
+    {
+      "id": "PAS00002",
+      "description": "Associate Forms to main",
+      "creation_rule": "CR27902",
+      "matching_data_fields": ["Product Code", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "existing_packages": true,
+      "active": true
+    },
+    {
+      "id": "PAS00003",
+      "description": "Associate SOPs to main",
+      "creation_rule": "CR08938",
+      "matching_data_fields": ["Product Code", "Market"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "existing_packages": false,
+      "active": true
+    },
+    {
+      "id": "PAS00004",
+      "description": "Associate Forms to main",
+      "creation_rule": "CR08622",
+      "matching_data_fields": ["Market", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "existing_packages": true,
+      "active": false
+    },
+    {
+      "id": "PAS00005",
+      "description": "Associate SOPs to main",
+      "creation_rule": "CR07242",
+      "matching_data_fields": ["Product Code", "Batch Number"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "existing_packages": false,
+      "active": true
+    },
+    {
+      "id": "PAS00006",
+      "description": "Associate SOPs to main",
+      "creation_rule": "CR97645",
+      "matching_data_fields": ["Product Code", "Market"],
+      "trigger": "Approved",
+      "state": "Approved",
+      "existing_packages": false,
+      "active": true
+    }
+  ]
+}

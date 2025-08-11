@@ -1,0 +1,39 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "GXP Section",
+      "answer": "GXP",
+      "performed_by": "likithraj@arcolab.com",
+      "performed_on": "18-DEC-2024/20:58"
+    },
+    {
+      "id": 2,
+      "name": "Section 1",
+      "answer": "Gamp Category 01",
+      "performed_by": "shivkumar@arcolab.com",
+      "performed_on": "18-DEC-2024/20:58"
+    },
+    {
+      "id": 3,
+      "name": "Section 2",
+      "answer": "Gamp Category 02",
+      "performed_by": "mallikarjun@arcolab.com",
+      "performed_on": "18-DEC-2024/20:58"
+    },
+    {
+      "id": 4,
+      "name": "Section 3",
+      "answer": "Gamp Category 03",
+      "performed_by": "shivkumar@arcolab.com",
+      "performed_on": "18-DEC-2024/20:58"
+    },
+    {
+      "id": 5,
+      "name": "Section 4",
+      "answer": "Gamp Category 04",
+      "performed_by": "likithraj@arcolab.com",
+      "performed_on": "18-DEC-2024/20:58"
+    }
+  ]
+}

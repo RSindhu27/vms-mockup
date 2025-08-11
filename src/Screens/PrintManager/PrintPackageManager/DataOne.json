@@ -1,0 +1,94 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "package_id": "PAC0001",
+      "document_type": "Batch Manufacturing Record",
+      "system_data_fields": ["Product Code", "Market"],
+      "version": "4.5",
+      "status": "Active",
+      "created_by": "Alex Johnson",
+      "created_on": "2025-01-15"
+    },
+    {
+      "id": 2,
+      "package_id": "PAC0002",
+      "document_type": "Quality Record 988",
+      "system_data_fields": ["Market", "Product Code"],
+      "version": "3.0",
+      "status": "Active",
+      "created_by": "John Doe",
+      "created_on": "2025-03-07"
+    },
+    {
+      "id": 3,
+      "package_id": "PAC0003",
+      "document_type": "Quality Report 536",
+      "system_data_fields": ["Product Code", "Market"],
+      "version": "2.7",
+      "status": "Active",
+      "created_by": "Jane Smith",
+      "created_on": "2025-03-01"
+    },
+    {
+      "id": 4,
+      "package_id": "PAC0004",
+      "document_type": "Production Report 40",
+      "system_data_fields": ["Market", "Product Code"],
+      "version": "1.4",
+      "status": "Inactive",
+      "created_by": "Alex Johnson",
+      "created_on": "2025-01-15"
+    },
+    {
+      "id": 5,
+      "package_id": "PAC0005",
+      "document_type": "Production Record 715",
+      "system_data_fields": ["Product Code", "Market"],
+      "version": "4.5",
+      "status": "Active",
+      "created_by": "John Doe",
+      "created_on": "2025-01-05"
+    },
+    {
+      "id": 6,
+      "package_id": "PAC0006",
+      "document_type": "Compliance Record",
+      "system_data_fields": ["Market", "Product Code"],
+      "version": "4.4",
+      "status": "Active",
+      "created_by": "Jane Smith",
+      "created_on": "2025-04-15"
+    },
+    {
+      "id": 7,
+      "package_id": "PAC0007",
+      "document_type": "Compliance Document",
+      "system_data_fields": ["Product Code", "Market"],
+      "version": "1.0",
+      "status": "Inactive",
+      "created_by": "Alex Johnson",
+      "created_on": "2025-05-26"
+    },
+    {
+      "id": 8,
+      "package_id": "PAC0008",
+      "document_type": "Batch Manufacturing Document",
+      "system_data_fields": ["Product Code", "Market"],
+      "version": "2.5",
+      "status": "Active",
+      "created_by": "John Doe",
+      "created_on": "2025-04-11"
+    },
+    {
+      "id": 9,
+      "package_id": "PAC0009",
+      "document_type": "Quality Document",
+      "system_data_fields": ["Product Code", "Market"],
+      "version": "5.5",
+      "status": "Active",
+      "created_by": "Jane Smith",
+      "created_on": "2025-02-22"
+    }
+  ]
+}

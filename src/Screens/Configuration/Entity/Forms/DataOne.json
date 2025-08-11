@@ -1,0 +1,36 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "deliverables": "Functional Design Specification",
+      "predecessor": 1,
+      "process": 1,
+      "enforce_in": 1,
+      "finish_point": 1
+    },
+    {
+      "id": 2,
+      "deliverables": "Functional Risk Assessment",
+      "predecessor": 2,
+      "process": 2,
+      "enforce_in": 2,
+      "finish_point": 2
+    },
+    {
+      "id": 3,
+      "deliverables": "Operational Qualification Document",
+      "predecessor": 3,
+      "process": 3,
+      "enforce_in": 3,
+      "finish_point": 3
+    },
+    {
+      "id": 4,
+      "deliverables": "Project Validation Report",
+      "predecessor": 4,
+      "process": 4,
+      "enforce_in": 4,
+      "finish_point": 4
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "template_for_list": [
+    {
+      "value": 1,
+      "label": "VMS"
+    },
+    {
+      "value": 2,
+      "label": "Option 2"
+    },
+    {
+      "value": 3,
+      "label": "Option 3"
+    },
+    {
+      "value": 4,
+      "label": "Option 4"
+    }
+  ],
+  "template_type_list": [
+    {
+      "value": 1,
+      "label": "Template Type 1"
+    },
+    {
+      "value": 2,
+      "label": "Template Type 2"
+    },
+    {
+      "value": 3,
+      "label": "Template Type 3"
+    },
+    {
+      "value": 4,
+      "label": "Template Type 4"
+    }
+  ],
+  "template_group_list": [
+    {
+      "value": 1,
+      "label": "CSV"
+    },
+    {
+      "value": 2,
+      "label": "Template Group 2"
+    },
+    {
+      "value": 3,
+      "label": "Template Group 3"
+    },
+    {
+      "value": 4,
+      "label": "Template Group 4"
+    }
+  ],
+  "template_ns_list": [
+    {
+      "value": 1,
+      "label": "Numbering System 1"
+    },
+    {
+      "value": 2,
+      "label": "Numbering System 2"
+    },
+    {
+      "value": 3,
+      "label": "Numbering System 3"
+    },
+    {
+      "value": 4,
+      "label": "Numbering System 4"
+    }
+  ],
+  "template_list": [
+    {
+      "value": 1,
+      "label": "Template 1"
+    },
+    {
+      "value": 2,
+      "label": "Template 2"
+    },
+    {
+      "value": 3,
+      "label": "Template 3"
+    },
+    {
+      "value": 4,
+      "label": "Template 4"
+    }
+  ],
+  "effective_process_list": [
+    {
+      "value": 1,
+      "label": "Effective Process 1"
+    },
+    {
+      "value": 2,
+      "label": "Effective Process 2"
+    },
+    {
+      "value": 3,
+      "label": "Effective Process 3"
+    },
+    {
+      "value": 4,
+      "label": "Effective Process 4"
+    }
+  ]
+}

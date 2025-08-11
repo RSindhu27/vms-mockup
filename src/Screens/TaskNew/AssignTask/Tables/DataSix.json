@@ -1,0 +1,36 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "table_number": "01",
+      "column_number": "01",
+      "header_title": "Header 1",
+      "description": "Sed et est enim. Mauris finibus, dolor vitae ultrices pulvinar.",
+      "status": "Mapped"
+    },
+    {
+      "id": 2,
+      "table_number": "01",
+      "column_number": "02",
+      "header_title": "Header 2",
+      "description": "Curabitur posuere, lorem vitae porta finibus, augue est tincidunt augue.",
+      "status": "Mapped"
+    },
+    {
+      "id": 3,
+      "table_number": "02",
+      "column_number": "01",
+      "header_title": "Header 3",
+      "description": "Ut porta lacinia dolor sed suscipit. Nullam mattis urna nec justo volutpat commodo.",
+      "status": "Unmapped"
+    },
+    {
+      "id": 4,
+      "table_number": "02",
+      "column_number": "02",
+      "header_title": "Header 4",
+      "description": "Nulla laoreet luctus nisi ut pellentesque. In tincidunt egestas volutpat.",
+      "status": "Mapped"
+    }
+  ]
+}

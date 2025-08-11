@@ -1,0 +1,29 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "User Group 1",
+      "description": "Morbi laoreet porttitor dolor, nec bibendum turpis posuere ac."
+    },
+    {
+      "id": 2,
+      "name": "User Group 2",
+      "description": "In nec sem vel lectus hendrerit porta et vel sapien."
+    },
+    {
+      "id": 3,
+      "name": "User Group 3",
+      "description": "Morbi pharetra tempor placerat."
+    },
+    {
+      "id": 4,
+      "name": "User Group 4",
+      "description": "Fusce luctus elit vel leo congue, ut molestie dui faucibus."
+    },
+    {
+      "id": 5,
+      "name": "User Group 5",
+      "description": "Vestibulum tincidunt cursus maximus."
+    }
+  ]
+}

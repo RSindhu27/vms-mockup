@@ -1,0 +1,40 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "Attach01.doc",
+      "link": "#",
+      "upload_from": "Device",
+      "table_number": "01",
+      "table_row": "01",
+      "table_column": "01"
+    },
+    {
+      "id": 2,
+      "name": "Attach02.doc",
+      "link": "#",
+      "upload_from": "Application",
+      "table_number": "01",
+      "table_row": "01",
+      "table_column": "01"
+    },
+    {
+      "id": 3,
+      "name": "Attach03.doc",
+      "link": "#",
+      "upload_from": "Application",
+      "table_number": "02",
+      "table_row": "02",
+      "table_column": "01"
+    },
+    {
+      "id": 4,
+      "name": "Attach04.doc",
+      "link": "#",
+      "upload_from": "Device",
+      "table_number": "01",
+      "table_row": "01",
+      "table_column": "01"
+    }
+  ]
+}

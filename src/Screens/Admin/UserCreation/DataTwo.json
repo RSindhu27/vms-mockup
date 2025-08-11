@@ -1,0 +1,28 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "business_unit": "Arcolab",
+      "roles": "Role 1, Role 2, Role 3, Role 3",
+      "user_group": "User Group 1, User Group 2, User Group 3, User Group 3",
+      "dep_to_view": "Dep 1, Dep 2, Dep 3, Dep 3",
+      "dep_to_create": "Dep 1, Dep 2, Dep 3, Dep 3"
+    },
+    {
+      "id": 2,
+      "business_unit": "Strides",
+      "roles": "Role 1, Role 2, Role 3, Role 3",
+      "user_group": "User Group 1, User Group 2, User Group 3, User Group 3",
+      "dep_to_view": "Dep 1, Dep 2, Dep 3, Dep 3",
+      "dep_to_create": "Dep 1, Dep 2, Dep 3, Dep 3"
+    },
+    {
+      "id": 3,
+      "business_unit": "Stelis",
+      "roles": "Role 1, Role 2, Role 3, Role 3",
+      "user_group": "User Group 1, User Group 2, User Group 3, User Group 3",
+      "dep_to_view": "Dep 1, Dep 2, Dep 3, Dep 3",
+      "dep_to_create": "Dep 1, Dep 2, Dep 3, Dep 3"
+    }
+  ]
+}

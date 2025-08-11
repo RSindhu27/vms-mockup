@@ -1,0 +1,52 @@
+{
+  "user_list": [
+    {
+      "id": "USER000",
+      "name": "Clark Kent",
+      "time": "10:23 42 (GMT+5:30)",
+      "decision": "Reviewed",
+      "reason": "Some Reason",
+      "decision_date": "24/2/2024",
+      "sla_days": 2,
+      "role": "Reviewer",
+      "order": "01",
+      "email": "kentSuper@gmail.com"
+    },
+    {
+      "id": "USER001",
+      "name": "Clark Kent",
+      "time": "11:11 42 (GMT+5:30)",
+      "decision": "Pending",
+      "reason": "Some Reason",
+      "decision_date": "24/2/2024",
+      "sla_days": 4,
+      "role": "Reviewer",
+      "order": "02",
+      "email": "bWayne@hotmail.com"
+    },
+    {
+      "id": "USER002",
+      "name": "Bruce Wayne",
+      "time": "12:32 42 (GMT+5:30)",
+      "decision": "Rejected",
+      "reason": "Some Reason",
+      "decision_date": "24/2/2024",
+      "sla_days": 6,
+      "role": "Reviewer",
+      "order": "03",
+      "email": "wayneEnterprises@gmail.com"
+    },
+    {
+      "id": "USER003",
+      "name": "Diana Prince",
+      "time": "13:18 42 (GMT+5:30)",
+      "decision": "Rejected",
+      "reason": "Some Reason",
+      "decision_date": "24/2/2024",
+      "sla_days": 3,
+      "role": "Reviewer",
+      "order": "04",
+      "email": "amazonDiana@gmail.com"
+    }
+  ]
+}

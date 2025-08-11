@@ -1,0 +1,58 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "username": "Tony Stark",
+      "login_id": "ironman@starkindustries.com",
+      "business_unit": "Arcolab Pvt Ltd",
+      "department": "Developer",
+      "login_status": "Enable",
+      "account_status": "Active"
+    },
+    {
+      "id": 2,
+      "username": "Peter Parker",
+      "login_id": "spidey@dailybugle.com",
+      "business_unit": "Arcolab Pvt Ltd",
+      "department": "Coder",
+      "login_status": "Enable",
+      "account_status": "Active"
+    },
+    {
+      "id": 3,
+      "username": "Bruce Banner",
+      "login_id": "hulk@starkindustries.com",
+      "business_unit": "Arcolab Pvt Ltd",
+      "department": "Manager",
+      "login_status": "Enable",
+      "account_status": "Active"
+    },
+    {
+      "id": 4,
+      "username": "Natasha Romanoff",
+      "login_id": "blackwidow@shield.gov",
+      "business_unit": "Arcolab Pvt Ltd",
+      "department": "Senior Manager",
+      "login_status": "Enable",
+      "account_status": "Active"
+    },
+    {
+      "id": 5,
+      "username": "Thor Odinson",
+      "login_id": "thor@asgard.com",
+      "business_unit": "Arcolab Pvt Ltd",
+      "department": "Team Lead",
+      "login_status": "Enable",
+      "account_status": "Active"
+    },
+    {
+      "id": 6,
+      "username": "Wanda Maximoff",
+      "login_id": "scarletwitch@avengers.com",
+      "business_unit": "Arcolab Pvt Ltd",
+      "department": "Software Engineer",
+      "login_status": "Enable",
+      "account_status": "Active"
+    }
+  ]
+}

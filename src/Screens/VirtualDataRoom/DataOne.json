@@ -1,0 +1,74 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "room_number": "VDR00919",
+      "name": "Data Room 27",
+      "owner": "John Doe",
+      "reason": "Client Review",
+      "status": "Active",
+      "expiry_date": "2025-02-15",
+      "user_count": "5"
+    },
+    {
+      "id": 2,
+      "room_number": "VDR08465",
+      "name": "Data Room 21",
+      "owner": "John Doe",
+      "reason": "Client Review",
+      "status": "Active",
+      "expiry_date": "2025-03-19",
+      "user_count": "4"
+    },
+    {
+      "id": 3,
+      "room_number": "VDR93498",
+      "name": "Data Room 73",
+      "owner": "John Doe",
+      "reason": "Client Review",
+      "status": "Active",
+      "expiry_date": "2025-03-01",
+      "user_count": "6"
+    },
+    {
+      "id": 4,
+      "room_number": "VDR48893",
+      "name": "Data Room 12",
+      "owner": "Alex Johnson",
+      "reason": "Audit",
+      "status": "Inactive",
+      "expiry_date": "2025-01-15",
+      "user_count": "5"
+    },
+    {
+      "id": 5,
+      "room_number": "VDR38499",
+      "name": "Data Room 26",
+      "owner": "Alex Johnson",
+      "reason": "Audit",
+      "status": "Active",
+      "expiry_date": "2025-01-05",
+      "user_count": "5"
+    },
+    {
+      "id": 6,
+      "room_number": "VDR49021",
+      "name": "Data Room 15",
+      "owner": "Alex Johnson",
+      "reason": "Audit",
+      "status": "Inactive",
+      "expiry_date": "2025-04-15",
+      "user_count": "6"
+    },
+    {
+      "id": 7,
+      "room_number": "VDR72944",
+      "name": "Data Room 20",
+      "owner": "John Doe",
+      "reason": "Client Review",
+      "status": "Active",
+      "expiry_date": "2025-05-25",
+      "user_count": "2"
+    }
+  ]
+}

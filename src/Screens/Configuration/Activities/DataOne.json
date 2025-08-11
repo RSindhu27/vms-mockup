@@ -1,0 +1,36 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Effective",
+      "description": "Vestibulum suscipit libero ac velit elementum, vel laoreet felis ultricies.",
+      "esignature": false,
+      "meaning": "Sed ut iaculis neque. Donec sed eros augue. Aenean placerat semper condimentum.",
+      "comment": false
+    },
+    {
+      "id": 2,
+      "name": "Approved & Pending Release",
+      "description": "Vivamus egestas elit eget diam faucibus volutpat.",
+      "esignature": true,
+      "meaning": "Pellentesque pulvinar commodo ligula in laoreet. Duis ut pretium nisi.",
+      "comment": false
+    },
+    {
+      "id": 3,
+      "name": "Draft",
+      "description": "Phasellus tempus posuere justo ut posuere. Integer quis nisl sit amet tellus accumsan pharetra.",
+      "esignature": true,
+      "meaning": "Integer luctus diam quis nunc facilisis, non malesuada nulla bibendum.",
+      "comment": true
+    },
+    {
+      "id": 4,
+      "name": "External",
+      "description": "Aliquam aliquet eu lectus quis commodo",
+      "esignature": false,
+      "meaning": "Fusce commodo nibh elit, at suscipit lorem laoreet non.",
+      "comment": true
+    }
+  ]
+}

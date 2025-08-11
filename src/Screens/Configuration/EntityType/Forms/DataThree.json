@@ -1,0 +1,24 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "framework": "Framework 01"
+    },
+    {
+      "id": 2,
+      "framework": "Framework 02"
+    },
+    {
+      "id": 3,
+      "framework": "Framework 03"
+    },
+    {
+      "id": 4,
+      "framework": "Framework 04"
+    },
+    {
+      "id": 5,
+      "framework": "Framework 05"
+    }
+  ]
+}

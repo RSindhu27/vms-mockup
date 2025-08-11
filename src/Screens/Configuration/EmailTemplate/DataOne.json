@@ -1,0 +1,39 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "title": "Email Template 1",
+      "type": "System Default",
+      "notification": "Nullam vitae neque ac ante rhoncus suscipit. Nullam lacus elit, fringilla quis convallis quis, convallis nec dui.",
+      "auto_number": "XYZ@546"
+    },
+    {
+      "id": 2,
+      "title": "Email Template 2",
+      "type": "Activity Based",
+      "notification": "Nam ornare nisl ut quam vestibulum pharetra. Donec porttitor risus sit amet facilisis pulvinar.",
+      "auto_number": "XYZ@546"
+    },
+    {
+      "id": 3,
+      "title": "Email Template 3",
+      "type": "System Default",
+      "notification": "Aenean tincidunt, ligula non vulputate tincidunt, nunc augue maximus tortor, at efficitur sapien sem quis lacus.",
+      "auto_number": "XYZ@546"
+    },
+    {
+      "id": 4,
+      "title": "Email Template 4",
+      "type": "Activity Based",
+      "notification": "Morbi luctus neque felis, a porttitor ex lobortis ac. Suspendisse id eros vitae enim facilisis ultrices sit amet id lectus.",
+      "auto_number": "XYZ@546"
+    },
+    {
+      "id": 5,
+      "title": "Email Template 5",
+      "type": "Activity Based",
+      "notification": "In et purus ullamcorper, venenatis nisl at, consectetur diam.",
+      "auto_number": "XYZ@546"
+    }
+  ]
+}

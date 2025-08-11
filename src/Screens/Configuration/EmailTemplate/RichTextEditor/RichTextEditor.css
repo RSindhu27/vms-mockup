@@ -1,0 +1,14 @@
+.editorMain {
+  padding: 8px;
+}
+.editorToolbar {
+  border-bottom: 1px solid #eeeeee;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  background-color: transparent;
+}
+.editorWrapper {
+  border: 1px solid #eeeeee;
+  border-radius: 8px;
+}

@@ -1,0 +1,34 @@
+{
+  "checklist": [
+    {
+      "id": 1,
+      "name": "Framework 1",
+      "type": "New",
+      "form": "CSV Form"
+    },
+    {
+      "id": 2,
+      "name": "Framework 2",
+      "type": "Revision",
+      "form": "Validation Form"
+    },
+    {
+      "id": 3,
+      "name": "Framework 3",
+      "type": "Revision",
+      "form": "Test Form"
+    },
+    {
+      "id": 4,
+      "name": "Framework 4",
+      "type": "New",
+      "form": "Quality Check Form"
+    },
+    {
+      "id": 5,
+      "name": "Framework 5",
+      "type": "New",
+      "form": "CSV Form"
+    }
+  ]
+}

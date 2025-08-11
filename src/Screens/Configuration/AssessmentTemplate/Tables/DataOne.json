@@ -1,0 +1,34 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "template_id": "ASSMNT/TMP/V01",
+      "template_name": "Assessment Template Name 1",
+      "status": "Review Pending"
+    },
+    {
+      "id": 2,
+      "template_id": "ASSMNT/TMP/V01-01",
+      "template_name": "Assessment Template Name 2",
+      "status": "Review Pending"
+    },
+    {
+      "id": 3,
+      "template_id": "ASSMNT/TMP/V02",
+      "template_name": "Assessment Template Name 3",
+      "status": "Draft"
+    },
+    {
+      "id": 4,
+      "template_id": "ASSMNT/TMP/V01-02",
+      "template_name": "Assessment Template Name 4",
+      "status": "Rejected"
+    },
+    {
+      "id": 5,
+      "template_id": "ASSMNT/TMP/V03",
+      "template_name": "Assessment Template Name 5",
+      "status": "Rejected"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "table_name": "Table 1",
+      "no_of_row": 1,
+      "row_execute_without_result": 1,
+      "pass_rows": 1,
+      "first_pass_failure": 0,
+      "no_of_na": 0,
+      "pending_tests": 0,
+      "actual_failure": 0,
+      "discrepancy": 0,
+      "open_discrepancy": 0,
+      "closed_discrepancy": 0,
+      "execution_rate": 0,
+      "first_pass_failure_rate": 0,
+      "final_pass_failed_tests": 0
+    },
+    {
+      "id": 2,
+      "table_name": "Table 2",
+      "no_of_row": 1,
+      "row_execute_without_result": 1,
+      "pass_rows": 1,
+      "first_pass_failure": 0,
+      "no_of_na": 0,
+      "pending_tests": 0,
+      "actual_failure": 0,
+      "discrepancy": 0,
+      "open_discrepancy": 0,
+      "closed_discrepancy": 0,
+      "execution_rate": 0,
+      "first_pass_failure_rate": 0,
+      "final_pass_failed_tests": 0
+    },
+    {
+      "id": 3,
+      "table_name": "Table 3",
+      "no_of_row": 1,
+      "row_execute_without_result": 1,
+      "pass_rows": 1,
+      "first_pass_failure": 0,
+      "no_of_na": 0,
+      "pending_tests": 0,
+      "actual_failure": 0,
+      "discrepancy": 0,
+      "open_discrepancy": 0,
+      "closed_discrepancy": 0,
+      "execution_rate": 0,
+      "first_pass_failure_rate": 0,
+      "final_pass_failed_tests": 0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "taskId": "TSK0001",
+      "assignedOn": "5th Oct 2022",
+      "email": "Shivaprakash@arcolab.com",
+      "taskType": "Document Approval",
+      "targetDate": "23-Jun-2024",
+      "completedDate": "Not Completed",
+      "taskStatus": "Assigned",
+      "status": "New"
+    },
+    {
+      "id": 2,
+      "taskId": "TSK0002",
+      "assignedOn": "5th Oct 2022",
+      "email": "Shivaprakash@arcolab.com",
+      "taskType": "Document Review",
+      "targetDate": "03-May-2024",
+      "completedDate": "Not Completed",
+      "taskStatus": "Pending",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "taskId": "TSK0003",
+      "assignedOn": "5th Oct 2022",
+      "email": "Shivaprakash@arcolab.com",
+      "taskType": "Document Approval",
+      "targetDate": "28-May-2024",
+      "completedDate": "Not Completed",
+      "taskStatus": "In Progress",
+      "status": "Recent"
+    },
+    {
+      "id": 4,
+      "taskId": "TSK0004",
+      "assignedOn": "5th Oct 2022",
+      "email": "Shivaprakash@arcolab.com",
+      "taskType": "Document Review",
+      "targetDate": "13-Apr-2024",
+      "completedDate": "13-Apr-2024",
+      "taskStatus": "Completed - On Time",
+      "status": "Recent"
+    },
+    {
+      "id": 5,
+      "taskId": "TSK0005",
+      "assignedOn": "5th Oct 2022",
+      "email": "Shivaprakash@arcolab.com",
+      "taskType": "Document Review",
+      "targetDate": "13-Apr-2024",
+      "completedDate": "23-Apr-2024",
+      "taskStatus": "Completed - Delayed",
+      "status": "Completed"
+    }
+  ]
+}

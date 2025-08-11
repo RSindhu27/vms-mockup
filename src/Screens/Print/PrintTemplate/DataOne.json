@@ -1,0 +1,34 @@
+{
+  "template": [
+    {
+      "id": 1,
+      "name": "PO Audit",
+      "code": "TMP00234555",
+      "description": "Some texts here..."
+    },
+    {
+      "id": 2,
+      "name": "Letter of Credit",
+      "code": "TMP00234554",
+      "description": "Some texts here..."
+    },
+    {
+      "id": 3,
+      "name": "Letter of Credit Approval",
+      "code": "TMP00234553",
+      "description": "Some texts here..."
+    },
+    {
+      "id": 4,
+      "name": "Letter of Credit Reject",
+      "code": "TMP00234552",
+      "description": "Some texts here..."
+    },
+    {
+      "id": 5,
+      "name": "PO Audit",
+      "code": "TMP00234551",
+      "description": "Some texts here..."
+    }
+  ]
+}

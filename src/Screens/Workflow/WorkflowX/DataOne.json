@@ -1,0 +1,32 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "CSV Workflow-Approval",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "status": "Effective",
+      "current_state": "Send for Approval"
+    },
+    {
+      "id": 2,
+      "name": "General Workflow- Approval",
+      "description": "Sed maximus metus quis arcu porta dictum. In hac habitasse platea dictumst.",
+      "status": "Completed",
+      "current_state": "Approved"
+    },
+    {
+      "id": 3,
+      "name": "QA",
+      "description": "Integer ex tortor, commodo nec accumsan sed, imperdiet quis neque.",
+      "status": "Effective",
+      "current_state": "Approved"
+    },
+    {
+      "id": 4,
+      "name": "Workflow Name",
+      "description": "Suspendisse consequat interdum quam, ac lacinia tellus suscipit porta.",
+      "status": "Completed",
+      "current_state": "Approved"
+    }
+  ]
+}

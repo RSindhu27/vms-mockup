@@ -1,0 +1,15 @@
+{
+    "picklist": [
+      {
+        "id": 1,
+        "step": "01",
+        "test_procedure": "Login to validation App",
+        "expected_result": "Login Successful",
+        "actual_result": "Login not successful",
+        "result": "Fail",
+        "remarks": "Remarks",
+        "test_by": "user@arcolab.com | 23-Jan-2025 | 13.05 IST"
+      }
+    ]
+  }
+  

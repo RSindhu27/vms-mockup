@@ -1,0 +1,28 @@
+{
+  "workflow": [
+    {
+      "id": 1,
+      "workflowName": "Assessment Approval Workflow",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "for": "VMS"
+    },
+    {
+      "id": 2,
+      "workflowName": "Assessment Review Workflow",
+      "description": "Nam egestas suscipit luctus. Fusce vitae urna at lorem pharetra tincidunt ac et dui.",
+      "for": "VMS"
+    },
+    {
+      "id": 3,
+      "workflowName": "QA Workflow",
+      "description": "Nullam eget urna elit. Integer in tempus arcu.",
+      "for": "DMS"
+    },
+    {
+      "id": 4,
+      "workflowName": "General Workflow",
+      "description": "Quisque vel augue nulla. Donec et porttitor dolor.",
+      "for": "DMS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "pickListCategory": "Organization",
+      "pickListName": "Strides",
+      "valueShortForm": "STRD",
+      "dependedOn": "Country",
+      "dependedItems": "India, Finland"
+    },
+    {
+      "id": 2,
+      "pickListCategory": "Business Unit",
+      "pickListName": "Arcolab, Stelis",
+      "valueShortForm": "ARC, STLS",
+      "dependedOn": "Oraganization",
+      "dependedItems": "Strides"
+    },
+    {
+      "id": 3,
+      "pickListCategory": "Country",
+      "pickListName": "India, Australia, UK +192",
+      "valueShortForm": "IND, AUS, UK +181",
+      "dependedOn": "Business Unit",
+      "dependedItems": "Arcolab, Some Name"
+    },
+    {
+      "id": 4,
+      "pickListCategory": "Department",
+      "pickListName": "Quality Analysis",
+      "valueShortForm": "QA",
+      "dependedOn": "Users",
+      "dependedItems": "Arjun Singh, Imam Abdulla +25"
+    }
+  ]
+}

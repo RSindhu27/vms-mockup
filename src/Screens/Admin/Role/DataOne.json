@@ -1,0 +1,29 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "Name 1",
+      "description": "Description"
+    },
+    {
+      "id": 2,
+      "name": "Name 2",
+      "description": "Description"
+    },
+    {
+      "id": 3,
+      "name": "Name 3",
+      "description": "Description"
+    },
+    {
+      "id": 4,
+      "name": "Name 4",
+      "description": "Description"
+    },
+    {
+      "id": 5,
+      "name": "Name 5",
+      "description": "Description"
+    }
+  ]
+}

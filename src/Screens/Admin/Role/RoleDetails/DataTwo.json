@@ -1,0 +1,54 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "username": "Arcolab Strides Enterprises",
+      "domain": "Marketing",
+      "job_title": "BA",
+      "employee_no": "ARC123554",
+      "department": "Dep IT",
+      "email": "someone@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "username": "Arcolab Strides Enterprises",
+      "domain": "Finance",
+      "job_title": "Accountant",
+      "employee_no": "ARC123555",
+      "department": "Dep IT",
+      "email": "someone@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "username": "Arcolab Strides Enterprises",
+      "domain": "Technology",
+      "job_title": "Developer",
+      "employee_no": "ARC123556",
+      "department": "Dep IT",
+      "email": "someone@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "username": "Arcolab Strides Enterprises",
+      "domain": "Marketing",
+      "job_title": "BA",
+      "employee_no": "ARC123557",
+      "department": "Dep IT",
+      "email": "someone@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "username": "Arcolab Strides Enterprises",
+      "domain": "Finance",
+      "job_title": "Manager",
+      "employee_no": "ARC123558",
+      "department": "Dep IT",
+      "email": "someone@gmail.com",
+      "status": "active"
+    }
+  ]
+}

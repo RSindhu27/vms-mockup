@@ -1,0 +1,43 @@
+{
+    "folders": [
+      {
+        "id": "1",
+        "name": "Arcolab",
+        "open": false,
+        "type": "folder",
+        "sub": [
+          {
+            "id": "1.1",
+            "name": "Category 01",
+            "open": false,
+            "type": "folder",
+            "sub": [
+              {
+                "id": "1.1.1",
+                "name": "Subcategory 01",
+                "open": false,
+                "type": "folder",
+                "sub": [
+                  {
+                    "id": "1.1.1.1",
+                    "name": "Entity 01",
+                    "open": false,
+                    "type": "file"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1.2",
+            "name": "Category 02",
+            "open": false,
+            "type": "folder",
+            "sub": [
+              
+            ]
+          }
+        ]
+      }
+    ]
+  }

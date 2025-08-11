@@ -1,0 +1,43 @@
+{
+  "checklist": [
+    {
+      "id": 1,
+      "name": "Category 1",
+      "prefix": "CTGR",
+      "description": "Donec imperdiet nisi eu nulla viverra ultricies. Ut semper finibus consequat. In vitae tincidunt quam.",
+      "users": [
+        "Sub Category 1",
+        "Sub Category 2",
+        "Sub Category 3",
+        "Sub Category 4",
+        "Sub Category 5"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Category 2",
+      "prefix": "CTGW",
+      "description": "Mauris sed aliquet orci. Donec sem massa, interdum sed tincidunt eu, faucibus at tellus.",
+      "users": [
+        "Sub Category 1",
+        "Sub Category 2",
+        "Sub Category 3",
+        "Sub Category 4"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Category 3",
+      "prefix": "CTGB",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+      "users": ["Sub Category 1", "Sub Category 2"]
+    },
+    {
+      "id": 4,
+      "name": "Category 4",
+      "prefix": "CTGX",
+      "description": "Morbi venenatis fermentum nisi, ut pretium turpis efficitur ut. Duis vitae eros odio.",
+      "users": ["Sub Category 1", "Sub Category 2", "Sub Category 3"]
+    }
+  ]
+}

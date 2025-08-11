@@ -1,0 +1,28 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "admin_module": "Organization"
+    },
+    {
+      "id": 2,
+      "admin_module": "Entity"
+    },
+    {
+      "id": 3,
+      "admin_module": "Department"
+    },
+    {
+      "id": 4,
+      "admin_module": "User Creation"
+    },
+    {
+      "id": 5,
+      "admin_module": "Role Creation"
+    },
+    {
+      "id": 6,
+      "admin_module": "Group Creation"
+    }
+  ]
+}

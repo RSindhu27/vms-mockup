@@ -1,0 +1,92 @@
+{
+  "folders": [
+    {
+      "id": "1",
+      "name": "Arcolab",
+      "open": false,
+      "type": "folder",
+      "sub": [
+        {
+          "id": "1.1",
+          "name": "Folder 1-1",
+          "open": false,
+          "type": "folder",
+          "sub": [
+            {
+              "id": "1.1.1",
+              "name": "Folder 1-1-1",
+              "open": false,
+              "type": "folder",
+              "sub": []
+            },
+            {
+              "id": "1.1.2",
+              "name": "Folder 1-1-2",
+              "open": false,
+              "type": "folder",
+              "sub": []
+            }
+          ]
+        },
+        {
+          "id": "1.2",
+          "name": "Folder 1-2",
+          "open": false,
+          "type": "folder",
+          "sub": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Strides",
+      "open": false,
+      "type": "folder",
+      "sub": [
+        {
+          "id": "2.1",
+          "name": "Folder 2-1",
+          "open": false,
+          "type": "folder",
+          "sub": []
+        },
+        {
+          "id": "2.2",
+          "name": "Folder 2-2",
+          "open": false,
+          "type": "folder",
+          "sub": []
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Stelis",
+      "open": false,
+      "type": "folder",
+      "sub": [
+        {
+          "id": "3.1",
+          "name": "Folder 3-1",
+          "open": false,
+          "type": "folder",
+          "sub": []
+        },
+        {
+          "id": "3.2",
+          "name": "Folder 3-2",
+          "open": false,
+          "type": "folder",
+          "sub": []
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Repository",
+      "open": false,
+      "type": "folder",
+      "sub": []
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "reviewer": [
+    {
+      "id": 1,
+      "user": "Group 01",
+      "decision": "Reviewer",
+      "sequence": "Parallel",
+      "period_in_days": 5,
+      "alert_in_days": 5,
+      "order": "01",
+      "email": ["someEmail@gmail.com", "someEmail@yahoo.in"]
+    },
+    {
+      "id": 2,
+      "user": "Group 02",
+      "decision": "Reviewer",
+      "sequence": "Parallel",
+      "period_in_days": 4,
+      "alert_in_days": 5,
+      "order": "01",
+      "email": "someEmail@gmail.com"
+    },
+    {
+      "id": 3,
+      "user": "User 01",
+      "decision": "Reviewer",
+      "sequence": "Parallel",
+      "period_in_days": 5,
+      "alert_in_days": 3,
+      "order": "01",
+      "email": ["someEmail@gmail.com", "someEmail@yahoo.in"]
+    },
+    {
+      "id": 4,
+      "user": "User 02",
+      "decision": "Reviewer",
+      "sequence": "Parallel",
+      "period_in_days": 4,
+      "alert_in_days": 3,
+      "order": "01",
+      "email": "someEmail@yahoo.in"
+    },
+    {
+      "id": 5,
+      "user": "Group 03",
+      "decision": "Reviewer",
+      "sequence": "Parallel",
+      "period_in_days": 2,
+      "alert_in_days": 4,
+      "order": "01",
+      "email": ["someEmail@gmail.com", "someEmail@yahoo.in"]
+    }
+  ],
+  "approver": [
+    {
+      "id": 1,
+      "user": "Group 01",
+      "decision": "Approver",
+      "sequence": "Parallel",
+      "period_in_days": 5,
+      "alert_in_days": 5,
+      "order": "01",
+      "email": ["someEmail@gmail.com", "someEmail@yahoo.in"]
+    },
+    {
+      "id": 2,
+      "user": "Group 02",
+      "decision": "Approver",
+      "sequence": "Parallel",
+      "period_in_days": 4,
+      "alert_in_days": 5,
+      "order": "01",
+      "email": "someEmail@gmail.com"
+    },
+    {
+      "id": 3,
+      "user": "User 01",
+      "decision": "Approver",
+      "sequence": "Parallel",
+      "period_in_days": 5,
+      "alert_in_days": 3,
+      "order": "01",
+      "email": ["someEmail@gmail.com", "someEmail@yahoo.in"]
+    },
+    {
+      "id": 4,
+      "user": "User 02",
+      "decision": "Approver",
+      "sequence": "Parallel",
+      "period_in_days": 4,
+      "alert_in_days": 3,
+      "order": "01",
+      "email": "someEmail@yahoo.in"
+    },
+    {
+      "id": 5,
+      "user": "Group 03",
+      "decision": "Approver",
+      "sequence": "Parallel",
+      "period_in_days": 2,
+      "alert_in_days": 4,
+      "order": "01",
+      "email": ["someEmail@gmail.com", "someEmail@yahoo.in"]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "IMG01.jpg",
+      "link": "#",
+      "upload_from": "Device",
+      "table_number": "01",
+      "table_row": "01",
+      "table_column": "01"
+    },
+    {
+      "id": 2,
+      "name": "IMG02.jpg",
+      "link": "#",
+      "upload_from": "Camera",
+      "table_number": "01",
+      "table_row": "01",
+      "table_column": "01"
+    },
+    {
+      "id": 3,
+      "name": "IMG03.jpg",
+      "link": "#",
+      "upload_from": "Camera",
+      "table_number": "02",
+      "table_row": "02",
+      "table_column": "01"
+    },
+    {
+      "id": 4,
+      "name": "IMG04.jpg",
+      "link": "#",
+      "upload_from": "Device",
+      "table_number": "01",
+      "table_row": "01",
+      "table_column": "01"
+    }
+  ]
+}

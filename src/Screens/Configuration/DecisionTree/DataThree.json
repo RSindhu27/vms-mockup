@@ -1,0 +1,28 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "Subcategory Name 01",
+      "prefix": "Q1",
+      "question": "is it non gxp?",
+      "answer": ["Yes", "No", "N/A"],
+      "remarks": "mandatory"
+    },
+    {
+      "id": 2,
+      "name": "Subcategory Name 02",
+      "prefix": "Q2",
+      "question": "is it gxp?",
+      "answer": ["Yes", "No", "N/A"],
+      "remarks": "mandatory"
+    },
+    {
+      "id": 3,
+      "name": "Subcategory Name 03",
+      "prefix": "Q3",
+      "question": "is it approved?",
+      "answer": ["Yes", "No", "N/A"],
+      "remarks": "optional"
+    }
+  ]
+}

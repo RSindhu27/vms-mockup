@@ -1,0 +1,18 @@
+{
+    "picklist": [
+      {
+        "id": 1,
+        "template_name": "Template 01",
+        "retain_same_number": "NO",
+        "bind_as": "Copy"
+        
+      },
+      {
+        "id": 2,
+        "template_name": "Template 02",
+        "retain_same_number": "NO",
+        "bind_as": "Copy"
+       
+      }
+    ]
+  }

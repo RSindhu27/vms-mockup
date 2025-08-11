@@ -1,0 +1,49 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "tempVersion": "ARCDOC001",
+      "type": "doc",
+      "lifecycleState": "Approve and Pending Release",
+      "controlType": "Active",
+      "createdBy": "someone@email.com",
+      "updatedOn": "5th Oct 2023"
+    },
+    {
+      "id": 2,
+      "tempVersion": "ARCDOC002",
+      "type": "doc",
+      "lifecycleState": "Draft",
+      "controlType": "Inactive",
+      "createdBy": "someone@email.com",
+      "updatedOn": "6th Oct 2023"
+    },
+    {
+      "id": 3,
+      "tempVersion": "ARCDOC003",
+      "type": "pdf",
+      "lifecycleState": "Draft",
+      "controlType": "Inactive",
+      "createdBy": "someone@email.com",
+      "updatedOn": "7th Oct 2023"
+    },
+    {
+      "id": 4,
+      "tempVersion": "ARCDOC004",
+      "type": "pdf",
+      "lifecycleState": "Draft",
+      "controlType": "Inactive",
+      "createdBy": "someone@email.com",
+      "updatedOn": "8th Oct 2023"
+    },
+    {
+      "id": 5,
+      "tempVersion": "ARCDOC005",
+      "type": "pdf",
+      "lifecycleState": "Draft",
+      "controlType": "Inactive",
+      "createdBy": "someone@email.com",
+      "updatedOn": "8th Oct 2023"
+    }
+  ]
+}

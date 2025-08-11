@@ -1,0 +1,26 @@
+{
+    "picklist": [
+      {
+        "id": 1,
+        "template_name": "Template 01",
+        "same_template_number": true,
+        "bind_as": true
+      },
+      {
+        "id": 2,
+        "template_name": "Template 02",
+        "same_template_number": false,
+        "bind_as": true
+      }, {
+        "id": 3,
+        "template_name": "Template 03",
+        "same_template_number": true,
+        "bind_as": true
+      }, {
+        "id": 4,
+        "template_name": "Template 04",
+        "same_template_number": true,
+        "bind_as": false
+      }
+    ]
+  }

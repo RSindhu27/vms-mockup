@@ -1,0 +1,48 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "date": "21 OCT 2022",
+      "time": "10:23 42 (GMT+5:30)",
+      "login_id": "Shiva Prakash Hiremath (18978888)",
+      "unique_identifiers": "NAME= QA Department",
+      "event": "All",
+      "field": "NA",
+      "new_value": "New Name",
+      "old_value": "Old Name"
+    },
+    {
+      "id": 2,
+      "date": "16 SEP 2022",
+      "time": "08:32 12 (GMT+5:30)",
+      "login_id": "Shiva Prakash Hiremath (18978888)",
+      "unique_identifiers": "NAME= IT Department",
+      "event": "All",
+      "field": "NA",
+      "new_value": "New Name",
+      "old_value": "Old Name"
+    },
+    {
+      "id": 3,
+      "date": "12 AUG 2022",
+      "time": "15:23 42 (GMT+5:30)",
+      "login_id": "Shiva Prakash Hiremath (18978888)",
+      "unique_identifiers": "NAME= DEV Department",
+      "event": "All",
+      "field": "NA",
+      "new_value": "New Name",
+      "old_value": "Old Name"
+    },
+    {
+      "id": 4,
+      "date": "11 JUL 2022",
+      "time": "15:23 42 (GMT+5:30)",
+      "login_id": "Shiva Prakash Hiremath (18978888)",
+      "unique_identifiers": "NAME= Marketing Department",
+      "event": "All",
+      "field": "NA",
+      "new_value": "New Name",
+      "old_value": "Old Name"
+    }
+  ]
+}

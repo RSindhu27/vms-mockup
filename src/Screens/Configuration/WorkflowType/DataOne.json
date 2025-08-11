@@ -1,0 +1,24 @@
+{
+  "workflow": [
+    {
+      "id": 1,
+      "workflowName": "CSV Workflow",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "workflowName": "Draft Workflow",
+      "description": "Nam egestas suscipit luctus. Fusce vitae urna at lorem pharetra tincidunt ac et dui."
+    },
+    {
+      "id": 3,
+      "workflowName": "QA Workflow",
+      "description": "Nullam eget urna elit. Integer in tempus arcu."
+    },
+    {
+      "id": 4,
+      "workflowName": "General Workflow",
+      "description": "Quisque vel augue nulla. Donec et porttitor dolor."
+    }
+  ]
+}

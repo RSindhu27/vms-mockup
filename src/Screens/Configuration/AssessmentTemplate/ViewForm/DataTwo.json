@@ -1,0 +1,69 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "review_order": 1,
+      "reviewers": "CSV Review Group",
+      "target_date": "24-Jan-2024",
+      "reviewed_date": "24-Jan-2024 11:25AM",
+      "sequence": "Parallel",
+      "approval_order": 1,
+      "approvers": "CSV Approval Group",
+      "approved_target_date": "24-Jan-2024",
+      "approved_date": "24-Jan-2024 11:25AM",
+      "approved_sequence": "Parallel"
+    },
+    {
+      "id": 2,
+      "review_order": 1,
+      "reviewers": "Review Group 2",
+      "target_date": "24-Jan-2024",
+      "reviewed_date": "24-Jan-2024 11:25AM",
+      "sequence": "Parallel",
+      "approval_order": 1,
+      "approvers": "Approval Group 2",
+      "approved_target_date": "24-Jan-2024",
+      "approved_date": "24-Jan-2024 11:25AM",
+      "approved_sequence": "Parallel"
+    },
+    {
+      "id": 3,
+      "review_order": 1,
+      "reviewers": "Review Group 3",
+      "target_date": "24-Jan-2024",
+      "reviewed_date": "24-Jan-2024 11:25AM",
+      "sequence": "Parallel",
+      "approval_order": 1,
+      "approvers": "Approval Group 3",
+      "approved_target_date": "24-Jan-2024",
+      "approved_date": "24-Jan-2024 11:25AM",
+      "approved_sequence": "Parallel"
+    },
+    {
+      "id": 4,
+      "review_order": 1,
+      "reviewers": "CSV Review Group",
+      "target_date": "24-Jan-2024",
+      "reviewed_date": "24-Jan-2024 11:25AM",
+      "sequence": "Parallel",
+      "approval_order": 1,
+      "approvers": "CSV Approval Group",
+      "approved_target_date": "24-Jan-2024",
+      "approved_date": "24-Jan-2024 11:25AM",
+      "approved_sequence": "Parallel"
+    },
+    {
+      "id": 5,
+      "review_order": 1,
+      "reviewers": "Review Group 3",
+      "target_date": "24-Jan-2024",
+      "reviewed_date": "24-Jan-2024 11:25AM",
+      "sequence": "Parallel",
+      "approval_order": 1,
+      "approvers": "Approval Group 4",
+      "approved_target_date": "24-Jan-2024",
+      "approved_date": "24-Jan-2024 11:25AM",
+      "approved_sequence": "Parallel"
+    }
+  ]
+}

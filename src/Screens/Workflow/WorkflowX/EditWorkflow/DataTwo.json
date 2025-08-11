@@ -1,0 +1,144 @@
+{
+  "user_list": [
+    {
+      "name": "Clark Kent",
+      "email": "kentSuper@gmail.com",
+      "order": "01",
+      "id": "USER000",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Clark Kent",
+      "email": "bWayne@hotmail.com",
+      "order": "02",
+      "id": "USER001",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": "wayneEnterprises@gmail.com",
+      "order": "03",
+      "id": "USER002",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Diana Prince",
+      "email": "amazonDiana@gmail.com",
+      "order": "04",
+      "id": "USER003",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Barry Allen",
+      "email": "fastestManAlive@yahoo.com",
+      "order": "05",
+      "id": "USER004",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Hal Jordan",
+      "email": "greenLantern@gmail.com",
+      "order": "06",
+      "id": "USER005",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Arthur Curry",
+      "email": "aCurry@hotmail.com",
+      "order": "07",
+      "id": "USER006",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Oliver Queen",
+      "email": "oQueen@yahoo.com",
+      "order": "08",
+      "id": "USER007",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "J'onn J'onzz",
+      "email": "martianManhunter@gmail.com",
+      "order": "09",
+      "id": "USER008",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Victor Stone",
+      "email": "cyberVictor@gmail.com",
+      "order": "10",
+      "id": "USER009",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Billy Batson",
+      "email": "shazamBilly@gmail.com",
+      "order": "11",
+      "id": "USER010",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Carter Hall",
+      "email": "hawkmanCarter@gmail.com",
+      "order": "12",
+      "id": "USER011",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Shiera Sanders Hall",
+      "email": "hawkwomanShiera@gmail.com",
+      "order": "13",
+      "id": "USER012",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Dinah Lance",
+      "email": "dLance@gmail.com",
+      "order": "14",
+      "id": "USER013",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Kara Zor-El",
+      "email": "kZorEl@hotmail.com",
+      "order": "15",
+      "id": "USER014",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Barbara Gordon",
+      "email": "bGordon@gmail.com",
+      "order": "16",
+      "id": "USER015",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Dick Grayson",
+      "email": "dGrayson@yahoo.com",
+      "order": "17",
+      "id": "USER016",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Jason Todd",
+      "email": "jTodd@hotmail.com",
+      "order": "18",
+      "id": "USER017",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Selina Kyle",
+      "email": "sKyle@gmail.com",
+      "order": "19",
+      "id": "USER018",
+      "decision": "Reviewer"
+    },
+    {
+      "name": "Pamela Isley",
+      "email": "poisonIvy@gmail.com",
+      "order": "20",
+      "id": "USER019",
+      "decision": "Reviewer"
+    }
+  ]
+}

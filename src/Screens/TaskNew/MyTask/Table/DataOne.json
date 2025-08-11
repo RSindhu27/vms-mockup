@@ -1,0 +1,32 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "ARCDOC0001",
+      "time": "5th Oct 2022 17:50",
+      "title": "Title 01",
+      "description": "Aenean placerat purus at commodo elementum. Ut nisi arcu."
+    },
+    {
+      "id": 2,
+      "name": "ARCDOC0002",
+      "time": "5th Oct 2022 17:50",
+      "title": "Title 02",
+      "description": "Egestas vitae ullamcorper eget, venenatis at mauris."
+    },
+    {
+      "id": 3,
+      "name": "ARCDOC0003",
+      "time": "5th Oct 2022 17:50",
+      "title": "Title 03",
+      "description": "Donec tincidunt vehicula aliquet. Donec ullamcorper turpis eu viverra pretium."
+    },
+    {
+      "id": 4,
+      "name": "ARCDOC0004",
+      "time": "5th Oct 2022 17:50",
+      "title": "Title 04",
+      "description": "Duis scelerisque lorem non dui sodales mollis."
+    }
+  ]
+}

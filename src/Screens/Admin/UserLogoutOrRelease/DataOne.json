@@ -1,0 +1,184 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "Arabel Dancy",
+      "login_id": "adancy0@google.com.hk",
+      "business_unit": "Gutmann, Luettgen and Bahringer",
+      "department": "Business Development",
+      "login_status": true,
+      "account_status": true
+    },
+    {
+      "id": 2,
+      "name": "Jerri Bamforth",
+      "login_id": "jbamforth1@bing.com",
+      "business_unit": "Dooley Group",
+      "department": "Accounting",
+      "login_status": true,
+      "account_status": true
+    },
+    {
+      "id": 3,
+      "name": "Berty Hatt",
+      "login_id": "bhatt2@vk.com",
+      "business_unit": "Bahringer-Leuschke",
+      "department": "Support",
+      "login_status": true,
+      "account_status": true
+    },
+    {
+      "id": 4,
+      "name": "Amy Harg",
+      "login_id": "aharg3@photobucket.com",
+      "business_unit": "Beer, Heathcote and Durgan",
+      "department": "Sales",
+      "login_status": true,
+      "account_status": false
+    },
+    {
+      "id": 5,
+      "name": "Marijo Chinge de Hals",
+      "login_id": "mchinge4@yellowbook.com",
+      "business_unit": "Predovic, Lindgren and Ullrich",
+      "department": "Sales",
+      "login_status": false,
+      "account_status": true
+    },
+    {
+      "id": 6,
+      "name": "Winonah MacCallion",
+      "login_id": "wmaccallion5@eventbrite.com",
+      "business_unit": "Klocko Group",
+      "department": "Research and Development",
+      "login_status": true,
+      "account_status": true
+    },
+    {
+      "id": 7,
+      "name": "Lelia Benzie",
+      "login_id": "lbenzie6@bloomberg.com",
+      "business_unit": "Hagenes-Stracke",
+      "department": "Training",
+      "login_status": false,
+      "account_status": true
+    },
+    {
+      "id": 8,
+      "name": "Rikki Figgess",
+      "login_id": "rfiggess7@bloglines.com",
+      "business_unit": "Bashirian, Fisher and Kub",
+      "department": "Product Management",
+      "login_status": false,
+      "account_status": true
+    },
+    {
+      "id": 9,
+      "name": "Brantley Saltman",
+      "login_id": "bsaltman8@imdb.com",
+      "business_unit": "Carroll, Schmitt and Sawayn",
+      "department": "Business Development",
+      "login_status": false,
+      "account_status": true
+    },
+    {
+      "id": 10,
+      "name": "Windy Stearnes",
+      "login_id": "wstearnes9@cnn.com",
+      "business_unit": "Spinka, Denesik and Weber",
+      "department": "Research and Development",
+      "login_status": true,
+      "account_status": false
+    },
+    {
+      "id": 11,
+      "name": "Shirlene Stalley",
+      "login_id": "sstalleya@indiegogo.com",
+      "business_unit": "Braun Group",
+      "department": "Engineering",
+      "login_status": false,
+      "account_status": true
+    },
+    {
+      "id": 12,
+      "name": "Ronica Hurrion",
+      "login_id": "rhurrionb@ehow.com",
+      "business_unit": "Ryan-Kirlin",
+      "department": "Support",
+      "login_status": true,
+      "account_status": false
+    },
+    {
+      "id": 13,
+      "name": "Berna Murra",
+      "login_id": "bmurrac@pagesperso-orange.fr",
+      "business_unit": "Rempel Inc",
+      "department": "Sales",
+      "login_status": true,
+      "account_status": true
+    },
+    {
+      "id": 14,
+      "name": "Red Dentith",
+      "login_id": "rdentithd@cisco.com",
+      "business_unit": "Waelchi and Sons",
+      "department": "Services",
+      "login_status": true,
+      "account_status": true
+    },
+    {
+      "id": 15,
+      "name": "Caryl Pendered",
+      "login_id": "cpenderede@dagondesign.com",
+      "business_unit": "Abernathy Inc",
+      "department": "Product Management",
+      "login_status": true,
+      "account_status": true
+    },
+    {
+      "id": 16,
+      "name": "Daisie Craise",
+      "login_id": "dcraisef@walmart.com",
+      "business_unit": "Rogahn LLC",
+      "department": "Human Resources",
+      "login_status": false,
+      "account_status": false
+    },
+    {
+      "id": 17,
+      "name": "Nolan Duffyn",
+      "login_id": "nduffyng@storify.com",
+      "business_unit": "Feil-Crist",
+      "department": "Product Management",
+      "login_status": true,
+      "account_status": false
+    },
+    {
+      "id": 18,
+      "name": "Anita Alesio",
+      "login_id": "aalesioh@tinyurl.com",
+      "business_unit": "Fadel, Senger and Lehner",
+      "department": "Support",
+      "login_status": true,
+      "account_status": false
+    },
+    {
+      "id": 19,
+      "name": "Thomasa Gomm",
+      "login_id": "tgommi@free.fr",
+      "business_unit": "Champlin LLC",
+      "department": "Marketing",
+      "login_status": true,
+      "account_status": true
+    },
+    {
+      "id": 20,
+      "name": "Junette Deverick",
+      "login_id": "jdeverickj@statcounter.com",
+      "business_unit": "Armstrong-Dare",
+      "department": "Support",
+      "login_status": false,
+      "account_status": false
+    }
+  ]
+}

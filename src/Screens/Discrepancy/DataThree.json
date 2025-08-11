@@ -1,0 +1,16 @@
+{
+    "picklist": [
+      {
+       "id": 1,
+       "table_no": "11",
+       "table_caption": "Test Data Table: 3"
+      },
+      {
+        "id": 2,
+       "table_no": "14",
+       "table_caption": "Test Data Table: 5"
+      }
+      
+    ]
+  }
+  

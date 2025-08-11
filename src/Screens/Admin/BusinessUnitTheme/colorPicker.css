@@ -1,0 +1,12 @@
+.color-picker-box{
+  box-shadow: none !important;
+  width: 100%;
+}
+
+.color-picker-box input{
+  font-family: 'Roboto', sans-serif !important;
+}
+
+.color-picker-box label{
+  font-family: 'Roboto', sans-serif !important;
+}

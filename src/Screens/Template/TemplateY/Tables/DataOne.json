@@ -1,0 +1,67 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "active": "n/a",
+      "name": "TMP/986",
+      "template_name": "Template 1",
+      "template_type": "Executable",
+      "description": "Etiam auctor tincidunt commodo.",
+      "status": "Assigned"
+    },
+    {
+      "id": 2,
+      "active": "active",
+      "name": "TMP/654",
+      "template_name": "Template 2",
+      "template_type": "Executable",
+      "description": "Integer quis metus fermentum, aliquam ante sit amet, tincidunt velit.",
+      "status": "Approved"
+    },
+    {
+      "id": 3,
+      "active": "n/a",
+      "name": "TMP/678",
+      "template_name": "Template 3",
+      "template_type": "Non Executable",
+      "description": "Nunc egestas ex nec felis vestibulum, nec blandit lectus faucibus.",
+      "status": "Draft"
+    },
+    {
+      "id": 4,
+      "active": "n/a",
+      "name": "TMP/324",
+      "template_name": "Template 4",
+      "template_type": "Non Executable",
+      "description": "Suspendisse ut massa eget mi iaculis accumsan quis a erat. Ut placerat finibus blandit.",
+      "status": "Suspended"
+    },
+    {
+      "id": 5,
+      "active": "n/a",
+      "name": "TMP/546",
+      "template_name": "Template 5",
+      "template_type": "Executable",
+      "description": "Aenean vel magna id risus condimentum pretium at quis felis.",
+      "status": "Terminated"
+    },
+    {
+      "id": 6,
+      "active": "inactive",
+      "name": "TMP/854",
+      "template_name": "Template 6",
+      "template_type": "Executable",
+      "description": "Donec vel ipsum elit. Donec dictum lectus velit, ut gravida lacus scelerisque nec.",
+      "status": "Approved"
+    },
+    {
+      "id": 7,
+      "active": "n/a",
+      "name": "TMP/563",
+      "template_name": "Template 7",
+      "template_type": "Executable",
+      "description": "Cras maximus ornare enim, cursus sollicitudin turpis consequat eget.",
+      "status": "Reviewed"
+    }
+  ]
+}

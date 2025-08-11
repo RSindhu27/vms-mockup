@@ -1,0 +1,32 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "Attach01.doc",
+      "link": "#",
+      "upload_from": "Device",
+      "file_type": "Document"
+    },
+    {
+      "id": 2,
+      "name": "IMG02.jpg",
+      "link": "#",
+      "upload_from": "Camera",
+      "file_type": "Image"
+    },
+    {
+      "id": 3,
+      "name": "IMG03.jpg",
+      "link": "#",
+      "upload_from": "Device",
+      "file_type": "Image"
+    },
+    {
+      "id": 4,
+      "name": "Attach04.doc",
+      "link": "#",
+      "upload_from": "Application",
+      "file_type": "Document"
+    }
+  ]
+}

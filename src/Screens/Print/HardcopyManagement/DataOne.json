@@ -1,0 +1,69 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "ARCDOC0001",
+      "doc_type": "pdf",
+      "version": "0.1",
+      "status": "in_progress",
+      "print_template": "Template 001",
+      "print_for": "User 01",
+      "print_reason": "Reason Text Here",
+      "print_mode": "Local Printer",
+      "print_by": "User 01",
+      "print_on": "23-MAR-2024"
+    },
+    {
+      "id": 2,
+      "name": "ARCDOC0002",
+      "doc_type": "pdf",
+      "version": "0.2",
+      "status": "print_ready",
+      "print_template": "Template 006",
+      "print_for": "User 51",
+      "print_reason": "Reason Text Here",
+      "print_mode": "Server Printer",
+      "print_by": "User 23",
+      "print_on": "21-MAR-2024"
+    },
+    {
+      "id": 3,
+      "name": "ARCDOC0003",
+      "doc_type": "pdf",
+      "version": "0.1",
+      "status": "print_ready",
+      "print_template": "Template 651",
+      "print_for": "User 42",
+      "print_reason": "Reason Text Here",
+      "print_mode": "Print to PDF",
+      "print_by": "User 32",
+      "print_on": "20-MAR-2024"
+    },
+    {
+      "id": 4,
+      "name": "ARCDOC0004",
+      "doc_type": "pdf",
+      "version": "0.3",
+      "status": "in_progress",
+      "print_template": "Template 152",
+      "print_for": "User 65",
+      "print_reason": "Reason Text Here",
+      "print_mode": "Server Printer",
+      "print_by": "User 12",
+      "print_on": "20-MAR-2024"
+    },
+    {
+      "id": 5,
+      "name": "ARCDOC0005",
+      "doc_type": "pdf",
+      "version": "0.1",
+      "status": "print_ready",
+      "print_template": "Template 423",
+      "print_for": "User 52",
+      "print_reason": "Reason Text Here",
+      "print_mode": "Local Printer",
+      "print_by": "User 22",
+      "print_on": "17-MAR-2024"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "framework_1": [
+    {
+      "id": 1,
+      "document_type": "Design Qualification",
+      "function_type": "Executable",
+      "mandatory": true
+    },
+    {
+      "id": 2,
+      "document_type": "Checklist",
+      "function_type": "Non-executable",
+      "mandatory": true
+    },
+    {
+      "id": 3,
+      "document_type": "Functional Design Specification",
+      "function_type": "Reports",
+      "mandatory": false
+    },
+    {
+      "id": 4,
+      "document_type": "Functional Risk Assessment",
+      "function_type": "Requirement",
+      "mandatory": false
+    },
+    {
+      "id": 5,
+      "document_type": "Factory Acceptance Test",
+      "function_type": "Executable",
+      "mandatory": true
+    }
+  ],
+  "framework_2": [
+    {
+      "id": 1,
+      "document_type": "Functional Design Specification",
+      "function_type": "Reports",
+      "mandatory": false
+    },
+    {
+      "id": 2,
+      "document_type": "Design Qualification",
+      "function_type": "Executable",
+      "mandatory": true
+    },
+    {
+      "id": 3,
+      "document_type": "Factory Acceptance Test",
+      "function_type": "Executable",
+      "mandatory": true
+    },
+    {
+      "id": 4,
+      "document_type": "Functional Risk Assessment",
+      "function_type": "Requirement",
+      "mandatory": false
+    },
+    {
+      "id": 5,
+      "document_type": "Checklist",
+      "function_type": "Non-executable",
+      "mandatory": true
+    }
+  ]
+}

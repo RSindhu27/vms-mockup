@@ -1,0 +1,34 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Header Name 1",
+      "column_type": "Name & Signature",
+      "type": "MS word Document"
+    },
+    {
+      "id": 2,
+      "name": "Header Name 2",
+      "column_type": "Non Executable",
+      "type": "MS word Document"
+    },
+    {
+      "id": 3,
+      "name": "Header Name 3",
+      "column_type": "Executable with Name & Signature",
+      "type": "PDF"
+    },
+    {
+      "id": 4,
+      "name": "Header Name 4",
+      "column_type": "Executable without Name & Signature",
+      "type": "MS word Document"
+    },
+    {
+      "id": 5,
+      "name": "Header Name 5",
+      "column_type": "Non Executable",
+      "type": "PDF"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "login_id": "ironman",
+      "name": "Tony Stark",
+      "business_unit": "Arcolab",
+      "department": "Technology",
+      "login_status": "active",
+      "account_status": "active"
+    },
+    {
+      "id": 2,
+      "login_id": "spidey",
+      "name": "Peter Parker",
+      "business_unit": "Arcolab",
+      "department": "Technology",
+      "login_status": "active",
+      "account_status": "active"
+    },
+    {
+      "id": 3,
+      "login_id": "captain89",
+      "name": "Steve Rogers",
+      "business_unit": "Arcolab",
+      "department": "Technology",
+      "login_status": "inactive",
+      "account_status": "active"
+    },
+    {
+      "id": 4,
+      "login_id": "blackwidow",
+      "name": "Natasha Romanoff",
+      "business_unit": "Arcolab",
+      "department": "Technology",
+      "login_status": "active",
+      "account_status": "inactive"
+    },
+    {
+      "id": 5,
+      "login_id": "thor456",
+      "name": "Thor Odinson",
+      "business_unit": "Arcolab",
+      "department": "Technology",
+      "login_status": "active",
+      "account_status": "active"
+    }
+  ]
+}

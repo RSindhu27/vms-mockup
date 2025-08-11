@@ -1,0 +1,34 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "name": "Subcategory Name 01",
+      "prefix": "XRYA",
+      "category": "Computer System Validation"
+    },
+    {
+      "id": 2,
+      "name": "Subcategory Name 02",
+      "prefix": "RXYA",
+      "category": "Computer System Validation"
+    },
+    {
+      "id": 3,
+      "name": "Subcategory Name 03",
+      "prefix": "DFGYA",
+      "category": "Computer System Validation"
+    },
+    {
+      "id": 4,
+      "name": "Subcategory Name 04",
+      "prefix": "STDA",
+      "category": "Computer System Validation"
+    },
+    {
+      "id": 5,
+      "name": "Subcategory Name 05",
+      "prefix": "RXYA",
+      "category": "Computer System Validation"
+    }
+  ]
+}

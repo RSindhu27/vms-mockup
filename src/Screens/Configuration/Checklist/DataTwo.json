@@ -1,0 +1,19 @@
+{
+  "picklist": [
+    {
+      "id": 1,
+      "header": "Checkpoints texts 01",
+      "type": "String And Selection"
+    },
+    {
+      "id": 2,
+      "header": "Checkpoints texts 02",
+      "type": "List Manager"
+    },
+    {
+      "id": 3,
+      "header": "Checkpoints texts 03",
+      "type": "String"
+    }
+  ]
+}

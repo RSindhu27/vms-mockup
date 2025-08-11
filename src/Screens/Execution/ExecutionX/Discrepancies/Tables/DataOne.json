@@ -1,0 +1,81 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "no": "DIS/001",
+      "table": "01",
+      "row": "01",
+      "column": "01",
+      "header_title": "Header 01",
+      "discrepancies": "Some Text",
+      "decision": "na",
+      "status": "initiated"
+    },
+    {
+      "id": 2,
+      "no": "DIS/002",
+      "table": "01",
+      "row": "01",
+      "column": "01",
+      "header_title": "Header 01",
+      "discrepancies": "Some Text",
+      "decision": "na",
+      "status": "in-progress"
+    },
+    {
+      "id": 3,
+      "no": "DIS/003",
+      "table": "01",
+      "row": "01",
+      "column": "01",
+      "header_title": "Header 03",
+      "discrepancies": "Some Text",
+      "decision": "no-impact-approval",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "no": "DIS/004",
+      "table": "01",
+      "row": "01",
+      "column": "01",
+      "header_title": "Header 02",
+      "discrepancies": "Some Text",
+      "decision": "re-execute",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "no": "DIS/005",
+      "table": "01",
+      "row": "01",
+      "column": "01",
+      "header_title": "Header 04",
+      "discrepancies": "Some Text",
+      "decision": "defer-discrepancy",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "no": "DIS/006",
+      "table": "01",
+      "row": "01",
+      "column": "01",
+      "header_title": "Header 02",
+      "discrepancies": "Some Text",
+      "decision": "na",
+      "status": "open"
+    },
+    {
+      "id": 7,
+      "no": "DIS/007",
+      "table": "01",
+      "row": "01",
+      "column": "01",
+      "header_title": "Header 03",
+      "discrepancies": "Some Text",
+      "decision": "more",
+      "status": "in-progress"
+    }
+  ]
+}

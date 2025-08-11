@@ -1,0 +1,58 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "CSV Entity 01",
+      "entity_no": "ENXCSV02",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "category": "CSV",
+      "assessment": true,
+      "status": "Review Pending"
+    },
+    {
+      "id": 2,
+      "name": "EQP Entity 01",
+      "entity_no": "EQPEN01",
+      "description": "Nullam consectetur massa eget mi lobortis lobortis eget sed felis.",
+      "category": "CAT 01",
+      "assessment": true,
+      "status": "Approval Pending"
+    },
+    {
+      "id": 3,
+      "name": "CSV Entity 02",
+      "entity_no": "ABCX12",
+      "description": "Aliquam enim erat, tempus id luctus id, hendrerit sit amet risus. Suspendisse non purus ligula.",
+      "category": "CSV",
+      "assessment": false,
+      "status": "Saved"
+    },
+    {
+      "id": 4,
+      "name": "EQP Entity 02",
+      "entity_no": "123XDRT",
+      "description": "Ut convallis nisi non ex aliquet molestie.",
+      "category": "CAT 02",
+      "assessment": false,
+      "status": "Rejected"
+    },
+    {
+      "id": 5,
+      "name": "CSV Entity 03",
+      "entity_no": "DXSRT",
+      "description": "Vestibulum eu mi scelerisque nisl volutpat condimentum.",
+      "category": "CSV",
+      "assessment": true,
+      "status": "Saved"
+    },
+    {
+      "id": 6,
+      "name": "EQP Entity 03",
+      "entity_no": "VXDF32",
+      "description": "Pellentesque dui lorem, viverra ut tristique eget, mattis ut ante.",
+      "category": "CAT 3",
+      "assessment": false,
+      "status": "Review Pending"
+    }
+  ]
+}

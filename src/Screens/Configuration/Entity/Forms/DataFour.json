@@ -1,0 +1,29 @@
+{
+  "one": [
+    {
+      "id": 1,
+      "document_type": "Deliverable 01",
+      "mandatory": true
+    },
+    {
+      "id": 2,
+      "document_type": "Deliverable 02",
+      "mandatory": true
+    },
+    {
+      "id": 3,
+      "document_type": "Deliverable 03",
+      "mandatory": false
+    },
+    {
+      "id": 4,
+      "document_type": "Deliverable 04",
+      "mandatory": false
+    },
+    {
+      "id": 5,
+      "document_type": "Deliverable 05",
+      "mandatory": true
+    }
+  ]
+}

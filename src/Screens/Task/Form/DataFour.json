@@ -1,0 +1,28 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "prefix": "Q1",
+      "question": "Is this right question?",
+      "answer": "No",
+      "justification": "Justification Text",
+      "decision": "Q2"
+    },
+    {
+      "id": 2,
+      "prefix": "Q2",
+      "question": "Is this configurable?",
+      "answer": "Yes",
+      "justification": "Justification Text",
+      "decision": "Q3"
+    },
+    {
+      "id": 3,
+      "prefix": "Q3",
+      "question": "Session Completed?",
+      "answer": "Yes",
+      "justification": "Justification Text",
+      "decision": "Gamp Category 01"
+    }
+  ]
+}

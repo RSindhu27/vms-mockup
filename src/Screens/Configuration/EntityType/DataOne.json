@@ -1,0 +1,44 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "active": true,
+      "name": "Entity Type 1",
+      "task_type": "New",
+      "from_type": "CSV Form",
+      "prefix": "PRXFX01"
+    },
+    {
+      "id": 2,
+      "active": true,
+      "name": "Entity Type 2",
+      "task_type": "Revision",
+      "from_type": "Validation Form",
+      "prefix": "PRXFX02"
+    },
+    {
+      "id": 3,
+      "active": true,
+      "name": "Entity Type 3",
+      "task_type": "Revision",
+      "from_type": "Test Form",
+      "prefix": "PRXFX03"
+    },
+    {
+      "id": 4,
+      "active": true,
+      "name": "Entity Type 4",
+      "task_type": "New",
+      "from_type": "Quality Check Form",
+      "prefix": "PRXFX04"
+    },
+    {
+      "id": 5,
+      "active": false,
+      "name": "Entity Type 5",
+      "task_type": "New",
+      "from_type": "CSV Form",
+      "prefix": "PRXFX05"
+    }
+  ]
+}

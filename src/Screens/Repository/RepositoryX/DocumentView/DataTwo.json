@@ -1,0 +1,32 @@
+{
+  "picklist": [
+    {
+      "id": "DOC-V001",
+      "date": "02/20/2024 2:42 PM",
+      "updateBy": "someone@gmail.com",
+      "added": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis ornare dui. Ut sed pulvinar tortor, ut fermentum elit. Ut maximus odio at ex finibus tempor. Sed consequat lectus quis sagittis sagittis. Proin dignissim, eros vel porta semper, sem nisi vulputate sapien, eu fermentum neque ipsum non nisl.",
+      "removed": "Aliquam porttitor condimentum lectus, non facilisis libero ultrices a. Mauris at nibh non eros vulputate volutpat sit amet sit amet libero. Sed sit amet nibh at neque dictum suscipit."
+    },
+    {
+      "id": "DOC-V002",
+      "date": "02/14/2024 11:54 AM",
+      "updateBy": "someone@gmail.com",
+      "added": "Nunc ut erat ante. Fusce eu varius tortor, ac scelerisque enim. Vivamus pretium enim quis neque eleifend, a aliquam felis bibendum. Vivamus tristique ultricies lectus, id dignissim odio commodo at.",
+      "removed": "Curabitur vestibulum nulla sed elementum luctus. Nulla orci velit, dictum at placerat rhoncus, posuere id nulla. Cras ac urna a elit blandit rutrum. Duis fermentum lacus sed posuere posuere."
+    },
+    {
+      "id": "DOC-V003",
+      "date": "02/10/2024 3:01 PM",
+      "updateBy": "someone@gmail.com",
+      "added": "Maecenas suscipit ipsum ac ex molestie elementum. Sed varius ultrices mi, sollicitudin finibus justo varius ut. Vestibulum suscipit consequat sem a semper. Fusce finibus lorem nec augue pulvinar pretium. ",
+      "removed": "Nullam finibus sed leo at eleifend. Vivamus eget augue dui. Aenean condimentum sagittis convallis. Aliquam ipsum ligula, iaculis vehicula posuere et, commodo at nibh. Ut laoreet odio accumsan sem fringilla, id venenatis purus blandit."
+    },
+    {
+      "id": "DOC-V004",
+      "date": "02/02/2024 2:14 PM",
+      "updateBy": "someone@gmail.com",
+      "added": "Duis vitae arcu sit amet lacus malesuada pretium. Integer ullamcorper, sapien et mattis ultrices, diam mauris cursus purus, eu venenatis ligula turpis in mauris. Etiam mattis tortor tincidunt lectus venenatis condimentum a ut libero. Vestibulum aliquam enim tortor, volutpat gravida tellus molestie et.",
+      "removed": "Sed pretium ex rhoncus neque finibus laoreet. Curabitur ex dolor, tempus a ornare non, mattis vel felis. Maecenas accumsan, felis at luctus gravida, libero erat dictum orci, in ornare urna magna eget risus. Maecenas euismod quam at urna suscipit tincidunt."
+    }
+  ]
+}

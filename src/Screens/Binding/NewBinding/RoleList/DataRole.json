@@ -1,0 +1,26 @@
+{
+    "picklist": [
+      {
+        "id": 1,
+        "role_name": "Approver",
+        "allow_overwrite": false
+        
+      },
+      {
+        "id": 2,
+        "role_name": "Reviewer",
+        "allow_overwrite": false
+       
+      }, {
+        "id": 3,
+        "role_name": "Team Lead",
+        "allow_overwrite": false
+       
+      }, {
+        "id": 4,
+        "role_name": "Enter Name",
+        "allow_overwrite": true
+       
+      }
+    ]
+  }

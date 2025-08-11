@@ -1,0 +1,29 @@
+{
+  "checklist": [
+    {
+      "id": 1,
+      "prefix": "DSCRX",
+      "name": "Decision Tree Name 1"
+    },
+    {
+      "id": 2,
+      "prefix": "DSCRX",
+      "name": "Decision Tree Name 2"
+    },
+    {
+      "id": 3,
+      "prefix": "DSCRX",
+      "name": "Decision Tree Name 3"
+    },
+    {
+      "id": 4,
+      "prefix": "DSCRX",
+      "name": "Decision Tree Name 4"
+    },
+    {
+      "id": 5,
+      "prefix": "DSCRX",
+      "name": "Decision Tree Name 5"
+    }
+  ]
+}

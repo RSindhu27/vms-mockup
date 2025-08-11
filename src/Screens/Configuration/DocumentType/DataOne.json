@@ -1,0 +1,36 @@
+{
+  "workflow": [
+    {
+      "id": 1,
+      "workflowName": "CSV Document",
+      "description": "Nam tincidunt aliquet elit sed imperdiet. Curabitur sit amet scelerisque tellus.",
+      "status": "Active",
+      "numberingSystem": "DMD0018",
+      "templates": "CSV Template ,Sop Template +05 more"
+    },
+    {
+      "id": 2,
+      "workflowName": "SOP Document",
+      "description": "Praesent tempus erat vel quam auctor cursus. Cras faucibus ligula libero.",
+      "status": "Inactive",
+      "numberingSystem": "DMD0019",
+      "templates": "SOP Template"
+    },
+    {
+      "id": 3,
+      "workflowName": "Content Document",
+      "description": "Vivamus eu cursus purus. In pulvinar nibh ex, a rutrum felis convallis a.",
+      "status": "Active",
+      "numberingSystem": "DMD0020",
+      "templates": "CSV Template"
+    },
+    {
+      "id": 4,
+      "workflowName": "Legal Document",
+      "description": "Proin ante leo, varius in nunc id, feugiat suscipit ex. Vivamus mi ante.",
+      "status": "Inactive",
+      "numberingSystem": "DMD0021",
+      "templates": "SOP Template"
+    }
+  ]
+}

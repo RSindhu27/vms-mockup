@@ -1,0 +1,35 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Business Rule Name 01",
+      "framework": ["Framework 1", "Framework 2", "Framework 3"]
+    },
+    {
+      "id": 2,
+      "name": "Business Rule Name 02",
+      "framework": [
+        "Framework 1",
+        "Framework 2",
+        "Framework 3",
+        "Framework 4",
+        "Framework 5"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Business Rule Name 03",
+      "framework": ["Framework 1", "Framework 2"]
+    },
+    {
+      "id": 4,
+      "name": "Business Rule Name 04",
+      "framework": ["Framework 1"]
+    },
+    {
+      "id": 5,
+      "name": "Business Rule Name 05",
+      "framework": ["Framework 1", "Framework 2", "Framework 3", "Framework 4"]
+    }
+  ]
+}

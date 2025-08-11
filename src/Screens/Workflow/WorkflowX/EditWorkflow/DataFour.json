@@ -1,0 +1,52 @@
+{
+  "user_list": [
+    {
+      "id": 0,
+      "checkpoint": "Point 0",
+      "value1": "Yes",
+      "value2": "No",
+      "value3": "No",
+      "remarks": "Some Editable Remarks"
+    },
+    {
+      "id": 1,
+      "checkpoint": "Point 1",
+      "value1": "No",
+      "value2": "No",
+      "value3": "Yes",
+      "remarks": "Some Editable Remarks"
+    },
+    {
+      "id": 2,
+      "checkpoint": "Point 2",
+      "value1": "No",
+      "value2": "No",
+      "value3": "No",
+      "remarks": "Some Editable Remarks"
+    },
+    {
+      "id": 3,
+      "checkpoint": "Point 3",
+      "value1": "Yes",
+      "value2": "Yes",
+      "value3": "No",
+      "remarks": "Some Editable Remarks"
+    },
+    {
+      "id": 4,
+      "checkpoint": "Point 4",
+      "value1": "Yes",
+      "value2": "No",
+      "value3": "Yes",
+      "remarks": "Some Editable Remarks"
+    },
+    {
+      "id": 5,
+      "checkpoint": "Point 5",
+      "value1": "No",
+      "value2": "No",
+      "value3": "No",
+      "remarks": "Some Editable Remarks"
+    }
+  ]
+}

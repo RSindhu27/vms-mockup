@@ -1,0 +1,35 @@
+{
+    "picklist": [
+      {
+        "id": 1,
+        "document": "Computer System Validation",
+        "doc_no": "CSVDOC001",
+        "doc_type": "CSV",
+        "status": "Assign",
+        "action": "Revision",
+        "assigned_to": "someone@company.com",
+        "review_details": ""
+      },
+      {
+        "id": 2,
+        "document": "Document Title",
+        "doc_no": "CSVDOC002",
+        "doc_type": "CSV",
+        "status": "Assigned",
+        "action": "New Authoring",
+        "assigned_to": "CSV Group",
+        "review_details": "VIEW"
+      },
+      {
+        "id": 3,
+        "document": "Document 03",
+        "doc_no": "CSVDOC003",
+        "doc_type": "CSV",
+        "status": "Completed",
+        "action": "Bind Documents",
+        "assigned_to": "someone@company.com",
+        "review_details": "VIEW"
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+{
+  "checklist": [
+    {
+      "id": 1,
+      "name": "Effective",
+      "description": "Vestibulum suscipit libero ac velit elementum, vel laoreet felis ultricies."
+    },
+    {
+      "id": 2,
+      "name": "Approved & Pending Release",
+      "description": "Vivamus egestas elit eget diam faucibus volutpat."
+    },
+    {
+      "id": 3,
+      "name": "Draft",
+      "description": "Phasellus tempus posuere justo ut posuere. Integer quis nisl sit amet tellus accumsan pharetra."
+    },
+    {
+      "id": 4,
+      "name": "External",
+      "description": "Aliquam aliquet eu lectus quis commodo"
+    }
+  ]
+}
